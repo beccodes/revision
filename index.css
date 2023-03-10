@@ -1,0 +1,32 @@
+.container {
+    background: #B1C5AA;
+    padding: 30px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+p, span {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
